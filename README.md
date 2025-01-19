@@ -1,4 +1,4 @@
-# Hand Piano - Interactive Music Creation with Computer Vision
+# Hand Piano - Interactive Music Creation with Computer Vision (WorkShop Traning Code)
 
 This application allows you to create music by moving your hand in front of your webcam. It uses computer vision to track your hand movements and converts them into musical notes in real-time.
 
